@@ -27,6 +27,7 @@ Change the operating language of this script.
 更改此脚本的操作语言。  
 
 このスクリプトの操作言語を変更してください。  
+<hr>
 
 ### SAVE_PATH/TEMP_PATH
 Click on this text to open the folder at the specified path. The first one is the default save path for the game, and the latter is the temporary path that the user needs to specify.  
@@ -34,6 +35,7 @@ Click on this text to open the folder at the specified path. The first one is th
 点击此文本，可以打开此路径文件夹。前者是游戏的默认保存路径，后者是用户要指定的暂用路径。  
 
 このテキストをクリックして、指定されたパスのフォルダを開きます。前者はゲームのデフォルトの保存パスであり、後者はユーザーが指定する必要がある一時的なパスです。  
+<hr>
 
 ### Set path1/Set path2
 Save the document path and temporary target path separately.
@@ -41,6 +43,7 @@ Save the document path and temporary target path separately.
 分别用于保存文档路径和暂定目标路径。
 
 文書の保存パスと一時的なターゲットパスを別々に保存します。
+<hr>
 
 ### Load Archive
 Override the original path with the latest save in your specified document save path.
@@ -48,6 +51,7 @@ Override the original path with the latest save in your specified document save 
 用于将你暂定的文档保存路径中，选择最新的存档覆盖回原来的路径。
 
 指定された文書保存パスで最新の保存を使用して元のパスを上書きします。
+<hr>
 
 ### Start Saving
 用于即时（间隔5分钟）把你的存档拷贝一份，备份到暂定路径中。备份存档最多保存50份。
