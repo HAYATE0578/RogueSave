@@ -4,9 +4,9 @@ This is a meat Rouge game saver made in Python.
 これはPythonで作られたルージュ型即時ゲーム保存ソフトです。  
 
 ## Function/ 功能/ 機能
-It is possible to use this script for a certain period of time (within a 5-minute window), and to save the game's existing list at any time, so that it can be used for one route only, but when the game is lost or lost, it can be stored at any time.  
+You can use this script to save the game progress to another path at regular intervals (every five minutes), allowing you to reload the previous instant save when your game fails.  
 
-您可以用此脚本在一定时间内（内置5分钟）随时把游戏保存的游戏存档保存到另一个路径里面，从而在您游戏失败时重新载入把上一次即时存档。  
+您可以用此脚本在一定时间内（每五分钟一次）把游戏存档保存到另一个路径里面，从而在您游戏失败时重新载入把上一次即时存档。  
 
-このスクリプトは、一定期間 (5 分以内) 使用することができ、いつでもゲームの既存のリストを保存して、1 つのルートのみに使用できますが、ゲームが失われた場合に使用できます。紛失した場合でも、いつでも保管できます。
-
+このスクリプトを使用して、一定の時間ごと（5分ごと）にゲームのセーブデータを別のパスに保存し、ゲームが失敗した場合に前回の即時セーブデータをリロードできます。
+  
