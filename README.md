@@ -29,7 +29,9 @@ Change the operating language of this script.
 
 ### SAVE_PATH/TEMP_PATH
 Click on this text to open the folder at the specified path. The first one is the default save path for the game, and the latter is the temporary path that the user needs to specify.  
+
 点击此文本，可以打开此路径文件夹。前者是游戏的默认保存路径，后者是用户要指定的暂用路径。  
+
 このテキストをクリックして、指定されたパスのフォルダを開きます。前者はゲームのデフォルトの保存パスであり、後者はユーザーが指定する必要がある一時的なパスです。  
 <hr>
 
