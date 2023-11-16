@@ -32,19 +32,19 @@ Click on this text to open the folder at the specified path. The first one is th
 <hr>
 
 ### Set path1/Set path2
-Save the document path and temporary target path separately.
-分别用于保存文档路径和暂定目标路径。
-文書の保存パスと一時的なターゲットパスを別々に保存します。
+Save the document path and temporary target path separately.  
+分别用于保存文档路径和暂定目标路径。  
+文書の保存パスと一時的なターゲットパスを別々に保存します。  
 <hr>
 
 ### Load Archive
-Override the original path with the latest save in your specified document save path.
-用于将你暂定的文档保存路径中，选择最新的存档覆盖回原来的路径。
-指定された文書保存パスで最新の保存を使用して元のパスを上書きします。
+Override the original path with the latest save in your specified document save path.  
+用于将你暂定的文档保存路径中，选择最新的存档覆盖回原来的路径。  
+指定された文書保存パスで最新の保存を使用して元のパスを上書きします。  
 <hr>
 
 ### Start Saving
-Copy your save files instantly (every 5 minutes) and back them up to the specified path. Keep a maximum of 50 backup files.
-用于即时（间隔5分钟）把你的存档拷贝一份，备份到暂定路径中。备份存档最多保存50份。
-存档を即座に（5分ごとに）コピーし、それを指定されたパスにバックアップします。最大50個のバックアップファイルを保持します。
+Copy your save files instantly (every 5 minutes) and back them up to the specified path. Keep a maximum of 50 backup files.  
+用于即时（间隔5分钟）把你的存档拷贝一份，备份到暂定路径中。备份存档最多保存50份。  
+存档を即座に（5分ごとに）コピーし、それを指定されたパスにバックアップします。最大50個のバックアップファイルを保持します。  
 
