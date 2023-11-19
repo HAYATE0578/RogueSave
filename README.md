@@ -1,4 +1,7 @@
 # RogueSave
+![image](https://github.com/HAYATE0578/RogueSave/assets/78299959/850cb8d5-2800-44a1-9b06-94ae5891667d)
+
+## At the begining/写在开始/はじめに
 This is a meat Rouge game saver made in Python.  
 这是一个Python做的肉鸽游戏保存器。  
 これはPythonで作られたルージュ型即時ゲーム保存ソフトです。  
@@ -18,8 +21,6 @@ You can use this script to save the game progress to another path at regular int
 このスクリプトを使用して、一定の時間ごと（5分ごと）にゲームのセーブデータを別のパスに保存し、ゲームが失敗した場合に前回の即時セーブデータをリロードできます。
   
 ## Buttons/按钮/ボタン
-![image](https://github.com/HAYATE0578/RogueSave/assets/78299959/850cb8d5-2800-44a1-9b06-94ae5891667d)
-
 
 ### US/CN/JP
 Change the operating language of this script.  
