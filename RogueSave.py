@@ -22,7 +22,7 @@ sg.theme('SystemDefaultForReal')
 default_Path = r'C:\Users\user\AppData\LocalLow\BadMudStudio'
 # Set a path of temp save path. 设置一个暂时的保存路径。
 tmp_Save_Path = r'D:\TmpSave_WarmSnow'
-# Set a path of temp save path. 设置一个暂时的保存路径。
+# Set user language. 设置用户界面语言。
 lan = 'CHINESE'
 # The situation of activating . 当前软件运行状态。
 isSaving = False
@@ -36,6 +36,7 @@ def set_settings():
     with open('tmpSavePath.pkl', 'wb') as tmp:
         pickle.dump(local_Settings, tmp)
 
+（我才意识到立案十分重要。到快写完了我想加个语言转换功能却写成了屎山。应该直接声明个语言列表...）
 
 # This method is used to set and save the path. 这个方法用于设定，保存路径。
 def set_lan_window(lan_Parameter, window, start_Situation):
