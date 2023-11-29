@@ -2,7 +2,7 @@
 ![image](https://github.com/HAYATE0578/RogueSave/assets/78299959/850cb8d5-2800-44a1-9b06-94ae5891667d)
 
 ## At the begining/写在开始/はじめに
-This is a meat Rouge game saver made in Python.  
+This is a meat Rouge game saver made with Python.  
 这是一个Python做的肉鸽游戏保存器。  
 これはPythonで作られたルージュ型即時ゲーム保存ソフトです。  
 
